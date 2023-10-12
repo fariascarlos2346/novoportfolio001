@@ -28,7 +28,7 @@ nav {
 }
 
 .portfolio span{
-   color: #f9004d;
+   color: #24ea12;
 }
 
 li {
@@ -62,7 +62,7 @@ h1 {
 }
 
 h1 span {
-   color: #f9004d;
+   color: rgb(213, 232, 6);
 }
 
 .meu-nome {
@@ -74,7 +74,7 @@ section {
    display: flex;
    align-items: center;
    padding: 60px 10%;
-   background-color: #c4ec37;
+   background-color: blue;
 }
 
 section img {
